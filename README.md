@@ -1,3 +1,5 @@
+![alt text](https://github.com/Connectslide121/My-Age/blob/master/Connect_banner.png?raw=true)
+
 # My-Age
 First C# code
 
